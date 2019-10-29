@@ -28,7 +28,9 @@ aside, main {
 
 aside img{
     display: block;
-    width: 80%;
+    width: 500px;
+    height: 640px;
+
     margin: 0 auto;
 }
 
